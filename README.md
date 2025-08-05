@@ -235,5 +235,3 @@ Website: [www.ksquants.com](https://www.ksquants.com)
 
 **Built for professional traders who demand precision, performance, and visual excellence.**
 ```
-
-This README provides comprehensive documentation for your MQL5 trading dashboard, including installation instructions, usage examples, and all the key features. The structure follows GitHub best practices with proper badges, code examples, and clear sections for easy navigation.
